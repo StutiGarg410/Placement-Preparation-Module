@@ -1,2 +1,6 @@
 # Placement-Preparation-Module
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Name - Stuti Garg
+Roll No. - 2000290110171
+Semester - 7th
+Section - C
+Leetcode Link - https://leetcode.com/Stuti_Garg/
