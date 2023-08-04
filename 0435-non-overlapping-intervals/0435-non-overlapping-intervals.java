@@ -9,11 +9,11 @@ class Solution {
                 left = right; 
                 right++;
             }
-            else if(intervals[left][1]<=intervals[right][1]){   //removing right interval
+            else if(intervals[left][1]<intervals[right][1]){   //removing right interval
                 count++;
                 right++;
             }
-            else if(intervals[left][1]>intervals[right][1]){   //removing left interval
+            else if(intervals[left][1]>=intervals[right][1]){   //removing left interval
                 count++;
                 left = right; 
                 right++;
